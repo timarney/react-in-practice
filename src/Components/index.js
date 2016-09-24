@@ -1,0 +1,6 @@
+export { default as Greeting } from './Stateless/Greeting'
+export { default as Greeting1 } from './Stateless/Greeting1'
+export { Greet1, Greet2, Greet3, Greet4 } from './Destructure/Greet'
+export { Foo, Bar } from './ChildFunctions/Child'
+export { Header } from './HOC/Higher'
+export { Wrap } from './HOC/HigherParams'
